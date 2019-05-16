@@ -1,0 +1,4 @@
+venv/
+gigigi/settings.py
+.idea/
+db.sqlite3
